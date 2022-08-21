@@ -1,9 +1,9 @@
 # hw definition file for processing by chibios_hwdef.py
-# for FlyingmoonF407 hardware
+# for DEVEBOX STM32F407VGT6 hardware
 
 MCU STM32F4xx STM32F407xx
 
-APJ_BOARD_ID 1067
+APJ_BOARD_ID 1077
 
 OSCILLATOR_HZ 8000000
 
